@@ -321,4 +321,9 @@ upload-section {
   background-color: red;
   color: white;
 }
-
+.upload-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+}
